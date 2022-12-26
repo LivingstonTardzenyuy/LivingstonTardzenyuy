@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LivingstonTardzenyuy
 - 👀 I’m interested in learning Software Engineering
-- 🌱 I’m currently learning C# and SQL
-- 💞️ I’m looking to collaborate on projects related to C# and SQL
+- 🌱 I’m currently learning C# and SQL,Python,Html,Css and JavaScritp
+- 💞️ I’m looking to collaborate on projects related to C#,Python,Javaacript and SQL
 - 📫 How to reach me 
 
 <!---
