@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LivingstonTardzenyuy
 - 👀 I'm a Computer Engineering student in the National Higher Polytechnic Institute of the University of Bamenda
-- 🌱 I’m currently learning Python,C#,SQL,Html,Css and JavaScritp
+- 🌱 I’m currently learning Python, Django, React, Flutter, Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on projects related to C#,Python,Javaacript and SQL
 - 📫 How to reach me 
 - on Twitter: https://twitter.com/Living1Kongnyuy
