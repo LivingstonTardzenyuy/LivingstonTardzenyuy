@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LivingstonTardzenyuy
 - 👀 I'm a Computer Engineering student in the National Higher Polytechnic Institute of the University of Bamenda
-- 🌱 I’m currently learning Python, Django, React, Flutter, Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on projects related to C#,Python,Javaacript and SQL
+- 🌱 I’m currently learning Python, Django, React, Flutter, Data Structures and Algorithms and more
+- 💞️ I’m looking to collaborate on projects related to Flutter, Django, C#,Python,Javaacript and SQL
 - 📫 How to reach me 
 - on Twitter: https://twitter.com/Living1Kongnyuy
 - on LinkedIN:kongnyuy@kongnyuy-Precision-3510:~/Desktop/zilo-concourse$ flutter build apk --release
