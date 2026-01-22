@@ -17,3 +17,4 @@ Running Gradle task 'assembleRelease'...                           84.3s
 LivingstonTardzenyuy/LivingstonTardzenyuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
 --->
+.
