@@ -15,5 +15,5 @@ Running Gradle task 'assembleRelease'...                           84.3s
 <img src="https://github-readme-stats.vercel.app/api?username=LivingstonTardzenyuy&show_icons=true&theme=gruvbox_duo" width="400">
 <!---
 LivingstonTardzenyuy/LivingstonTardzenyuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
+You can click the Preview link to take a look at your changes.
 --->
